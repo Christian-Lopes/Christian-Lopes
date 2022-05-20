@@ -2,7 +2,7 @@
 
 ## I'm Christian Lopes!
 
-:computer: Sou desenvolvedor front-end e back-end!
+:computer: Sou desenvolvedor full stack!
 
 :house_with_garden: Morro em Brasília.
 
