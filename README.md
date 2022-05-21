@@ -2,9 +2,9 @@
 
 ## I'm Christian Lopes!
 
-:computer: Sou desenvolvedor full stack!
+:computer: I´m developer full stack!
 
-:house_with_garden: Morro em Brasília.
+:house_with_garden: I live in Brasília.
 
 :books: Bacharel em Sistema de Informação (Faculdade Horizonte) e pós-graduando em Tecnólogia Mainframe IBM (INEFE).
 
