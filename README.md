@@ -6,7 +6,7 @@
 
 :house_with_garden: I live in Brasília.
 
-:books: Bacharel em Sistema de Informação (Faculdade Horizonte) e pós-graduando em Tecnólogia Mainframe IBM (INEFE).
+:books: Bachelor in Information System and graduate in IBM Mainframe tecnology.
 
 ### About me
 
