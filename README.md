@@ -6,7 +6,7 @@
 
 :house_with_garden: I live in Brasília.
 
-:books: Bachelor in Information System and graduate in IBM Mainframe tecnology.
+:books: Bachelor in Information System and postgraduate in IBM Mainframe tecnology.
 
 ### About me
 
